@@ -20,16 +20,16 @@ End the program
 #RegisterNumber:212224220037
 
 import numpy as np
-A = np.array([[5, -3, -10],
-              [2, 2, -3],
-              [-3, -1, 5]])
-B = np.array([-9, 4, -1])
+A = np.array([[1, 3],
+              [2, 5]])
+B = np.array([5, -3])
 solution = np.linalg.solve(A, B)
 print(solution)
 ```
 ## Output:
 
-<img width="1319" height="897" alt="image" src="https://github.com/user-attachments/assets/ac0e98ed-ee71-4f78-9a7d-3431a7354756" />
+<img width="1300" height="886" alt="image" src="https://github.com/user-attachments/assets/7fb6c3a5-2fc7-4b65-8e35-8a1587a50db6" />
+
 
 
 
