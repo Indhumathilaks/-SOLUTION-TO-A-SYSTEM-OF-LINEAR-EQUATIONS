@@ -29,7 +29,8 @@ print(solution)
 ```
 ## Output:
 
-<img width="957" height="287" alt="image" src="https://github.com/user-attachments/assets/9f797be6-52d5-436a-bccf-cbfc2c638339" />
+<img width="1319" height="897" alt="image" src="https://github.com/user-attachments/assets/ac0e98ed-ee71-4f78-9a7d-3431a7354756" />
+
 
 
 ## Result: 
